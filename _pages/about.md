@@ -40,38 +40,72 @@ The long-term goal of my research is to help humans with more capable artificial
 
 ## 📕 Selected Publications 
 
-- **[Nature Scientific Data 2025]** A Question Answering Dataset for Temporal-Sensitive Retrieval-Augmented Generation<br>
-  <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Jichao Li, Shuaiqiang Wang, Baotian Hu, Dawei Yin
-  <br>**[[pdf](https://arxiv.org/abs/2508.12282)]**  **[[code](https://github.com/czy1999/ChronoQA)]** 
+- **[Survey, ArXiv 2025]** Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models<br>
+  <u><strong>Yunxin Li</strong></u>, Zhenyu Liu, Zitao Li, Xuanyu Zhang, Zhenran Xu, Xinyu Chen, Haoyuan Shi, Shenyuan Jiang, Xintong Wang, Jifang Wang, Shouzheng Huang, Xinping Zhao, Borui Jiang, Lanqing Hong, Longyue Wang, Zhuotao Tian, Baoxing Huai, Wenhan Luo, Weihua Luo, Zheng Zhang, Baotian Hu, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2505.04921)]** **[[web](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)]** **[[huggingface](https://huggingface.co/papers/2505.04921)]**
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models.svg?style=social">
 
-- **[CIKM 2025]** Advancing Temporal Sensitive RAG through Progressive Multi-Step Reflection<br>
-  <u><strong>Ziyang Chen</strong></u>, Erxue Min, Xiang Zhao, Yunxin Li, Xin Jia, Jinzhi Liao, Dawei Yin
-  <br>**[[dataset](https://github.com/czy1999/ChronoReflect)]**  
-
-- **[arXiv 2024]** An Adaptive Framework for Generating Systematic Explanatory Answer in Online Q&A Platforms<br>
-  <u><strong>Ziyang Chen</strong></u>, Xiaobin Wang, Yong Jiang, Jinzhi Liao, Pengjun Xie, Fei Huang, Xiang Zhao
-  <br>**[[pdf](https://arxiv.org/abs/2410.17694)]**  **[[code](https://github.com/czy1999/SynthRAG)]**  
-
-- **[ACL 2024]** Temporal knowledge question answering via abstract reasoning induction<br>
-  <u><strong>Ziyang Chen</strong></u>, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang
-  <br>**[[pdf](https://aabs/2311.09149)]**  **[[code](https://github.com/czy1999/ARI-QA)]**  
-
-  <!-- <img src="../images/ARI.png"  width="240" height="100"> -->
-
-  <!-- <img src="../images/LLM.png"   width="200" height="100"> -->
-
-- **[ACL 2023]** Multi-granularity temporal question answering over knowledge graphs<br>
-   <u><strong>Ziyang Chen</strong></u>, Jinzhi Liao, Xiang Zhao
-  <br>**[[pdf](https://aclanthology.org/2023.acl-long.637.pdf)]**  **[[code](https://github.com/czy1999/MultiTQ)]**  **[[data](https://huggingface.co/datasets/chenziyang/MultiTQ)]** 
-
-  <!-- <img src="../images/MultiTQ.png"  width="230" height="100"> -->
-
-
-- **[KBS 2022]** Temporal knowledge graph question answering via subgraph reasoning<br>
-  <u><strong>Ziyang Chen</strong></u>, Xiang Zhao, Jinzhi Liao, Xinyi Li, Evangelos Kanoulas
-  <br>**[[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122005603)]**  **[[code](https://github.com/czy1999/SubGTR)]**
+- **[IEEE TPAMI 2025]** Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts<br>
+  <u><strong>Yunxin Li</strong></u>, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2405.11273)]** **[[web](https://uni-moe.github.io/)]** **[[code](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs)]**
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs.svg?style=social">
   
-  <!-- <img src="../images/SubGTR.png"  width="250" height="140"> -->
+- **[SIGGRAPH Asia 2024]** Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation<br>
+  <u><strong>Yunxin Li</strong></u>, Haoyuan Shi, Baotian Hu, Longyue Wang, Jiashun Zhu, Jinyi Xu, Zhen Zhao, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2408.09787)]** **[[code](https://github.com/HITsz-TMG/Anim-Director)]**
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social">
+
+- **[arXiv 2024]** VideoVista: A Versatile Benchmark for Video Understanding and Reasoning<br>
+  <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Longyue Wang, Haoyuan Shi, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2406.11303)]** **[[web](https://videovista.github.io/)]** **[[code](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs/tree/master/VideoVista)]**
+
+- **[ACL 2024]** Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment<br>
+  <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Haoyuan Shi, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2402.13561)]** **[[code](https://github.com/HITsz-TMG/Cognitive-Visual-Language-Mapper)]**
+
+- **[ICML 2024]** VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context<br>
+  <u><strong>Yunxin Li</strong></u>, Baotian Hu, Haoyuan Shi, Wei Wang, Longyue Wang, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2405.04950)]** **[[code](https://github.com/HITsz-TMG/VisionGraph)]**
+
+- **[IEEE TMM 2024]** LMEye: An Interactive Perception Network for Large Language Models<br>
+  <u><strong>Yunxin Li</strong></u>, Baotian Hu, Xinyu Chen, Lin Ma, Yong Xu, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2305.03701)]** **[[code](https://github.com/YunxinLi/LingCloud)]**
+
+- **[LREC-COLING 2024]** A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation<br>
+  <u><strong>Yunxin Li</strong></u>, Baotian Hu, Wenhan Luo, Lin Ma, Yuxin Ding, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2402.13587)]** **[[code](https://github.com/HITsz-TMG/Multimodal-In-Context-Tuning)]**
+
+- **[arXiv 2023]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
+  <u><strong>Yunxin Li</strong></u>, Baotian Hu, Wei Wang, Xiaochun Cao, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2311.15759)]**
+
+- **[Technical Paper 2023]** A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering<br>
+  <u><strong>Yunxin Li</strong></u>*, Longyue Wang*, Baotian Hu, Xinyu Chen, Wanqi Zhong, Chenyang Lyu, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2311.07536)]** **[[code](https://github.com/HITsz-TMG/Cognitive-Visual-Language-Mapper)]**
+
+- **[ACM MM 2023]** Training Multimedia Event Extraction With Generated Images and Captions<br>
+  Zilin Du, <u><strong>Yunxin Li</strong></u>, Xu Guo, Yidan Sun, Boyang Li<br>
+  **[[pdf](https://arxiv.org/pdf/2306.08966.pdf)]** **[[code](https://github.com/ZILIN003/CAMEL)]**
+
+- **[ACL 2023]** A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text<br>
+  <u><strong>Yunxin Li</strong></u>, Baotian Hu, Yuxin Ding, Lin Ma, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2305.02265)]** **[[code](https://github.com/YunxinLi/NDCR)]**
+
+- **[ACL 2023]** A Multi-Modal Context Reasoning Approach for Conditional Inference on Joint Textual and Visual Clues<br>
+  <u><strong>Yunxin Li</strong></u>, Baotian Hu, Xinyu Chen, Yuxin Ding, Lin Ma, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2305.04530)]** **[[code](https://github.com/YunxinLi/Multimodal-Context-Reasoning)]**
+
+- **[ACM MM 2022]** Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations<br>
+  Qian Yang*, <u><strong>Yunxin Li</strong></u>*, Baotian Hu, Lin Ma, Yuxing Ding, Min Zhang<br>
+  **[[pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3548284)]** **[[code](https://github.com/HITsz-TMG/ExplainableVisualEntailment)]**
+
+- **[SIGKDD 2022]** Medical Dialogue Response Generation with Pivotal Information Recalling<br>
+  Yu Zhao*, <u><strong>Yunxin Li</strong></u>*, Yuxiang Wu, Baotian Hu, Qingcai Chen, Xiaolong Wang, Yuxin Ding, Min Zhang<br>
+  **[[pdf](https://dl.acm.org/doi/abs/10.1145/3534678.3542674)]** **[[code](https://github.com/HITsz-TMG/MedPIR)]**
+
+- **[IEEE TMM 2022]** Fast and Robust Online Handwritten Chinese Character Recognition with Deep Spatial & Contextual Information Fusion Network<br>
+  <u><strong>Yunxin Li</strong></u>, Qian Yang, Qingcai Chen, Baotian Hu, Xiaolong Wang, Yuxin Ding, Lin Ma<br>
+  **[[pdf](https://ieeexplore.ieee.org/abstract/document/9682541)]**
   
 
 
