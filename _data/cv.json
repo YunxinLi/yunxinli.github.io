@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yunxin Li (李云鑫)",
+    "email": "liyunxin@stu.hit.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://yunxinli.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
@@ -16,12 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=U98QY0QAAAAJ"
       },
       {
         "network": "GitHub",
