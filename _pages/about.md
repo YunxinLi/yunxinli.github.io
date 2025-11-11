@@ -25,6 +25,7 @@ The long-term goal of my research is to help humans with more capable artificial
 - 2025.08: ✨ One long paper about Temporal RAG is accepted by CIKM 2025
 - 2025.08: ✨ The long video generation work Animaker is accepted by ACM SIGGRAPH Asia 2025
 - 2025.05: ✨ Unified multimodal LLMs Uni-MoE is accepted by IEEE TPAMI 2025
+- 2025.05: ✨ VideoVista-CulturalLingo is accepted by ACL 2025 Main Conference
 - 2025.01: ✨ GUI model UI-TARS are open-sourced
 - 2024.11: ✨ Anim-Director is accepted by ACM SIGGRAPH Asia 2024
 - 2024.05: ✨ Cognitive Visual-Knowledge Alignment work is accepted by ACL 2024 Main Conference
@@ -108,7 +109,6 @@ The long-term goal of my research is to help humans with more capable artificial
   **[[pdf](https://ieeexplore.ieee.org/abstract/document/9682541)]**
   
 
-
 ## 💼 Research Internship
 
 - HKUST Research Assistant (2025.03 - 2025.08)
@@ -126,10 +126,10 @@ The long-term goal of my research is to help humans with more capable artificial
 - Provincial Outstanding Graduates, 2019
 - National Scholarship (2018, 2021, 2024)
 - Baidu Scholarship (Global Top 40), 2024
-- Huawei TopMinds, 2025
-- JD TGT, 2025
-- Tencent Qingyun, 2025
-- Young Talent Support Project (Doctor), CAST, 2024
+- Huawei TopMinds (华为天才少年), 2025
+- JD TGT (京东顶尖技术人才计划), 2025
+- Tencent Qingyun (腾讯青云人才计划), 2025
+- Young Talent Support Project-Doctor (首届中国科协青托博士生计划), CAST, 2024
 - Outstanding Doctoral Dissertation of HIT (哈工大优博), 2025
 
 
