@@ -48,8 +48,8 @@ The long-term goal of my research is to help humans with more capable artificial
 
 - **[IEEE TPAMI 2025]** Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts<br>
   <u><strong>Yunxin Li</strong></u>, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang<br>
-  **[[pdf](https://arxiv.org/abs/2405.11273)]** **[[web](https://uni-moe.github.io/)]** **[[code](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs)]**
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs.svg?style=social">
+  **[[pdf](https://arxiv.org/abs/2405.11273)]** **[[web](https://uni-moe.github.io/)]** **[[code](https://github.com/HITsz-TMG/Uni-MoE)]**
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Uni-MoE.svg?style=social">
   
 - **[SIGGRAPH Asia 2024]** Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation<br>
   <u><strong>Yunxin Li</strong></u>, Haoyuan Shi, Baotian Hu, Longyue Wang, Jiashun Zhu, Jinyi Xu, Zhen Zhao, Min Zhang<br>
