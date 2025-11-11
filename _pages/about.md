@@ -133,18 +133,5 @@ The long-term goal of my research is to help humans with more capable artificial
 - Outstanding Doctoral Dissertation of HIT (哈工大优博), 2025
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-GGNQ9Q1DXW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-GGNQ9Q1DXW');
-</script>
-
-<div id="mapContainer" style="width: 40%; margin: 0 auto;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EHnMi1sl28eRT3YQedLX2Axxcw6-BakuDLa2DInHhFw&cl=ffffff&w=a"></script>
-</div>
 
 
