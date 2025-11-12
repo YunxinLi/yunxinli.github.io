@@ -23,19 +23,19 @@ The long-term goal of my research is to help humans with more capable artificial
 ## 🔥 News
 - 2025.10: ✨ One long paper about Temporal RAG Benchmark is accepted by Nature Scientific Data
 - 2025.08: ✨ One long paper about Temporal RAG is accepted by CIKM 2025
-- 2025.08: ✨ The long video generation work Animaker is accepted by ACM SIGGRAPH Asia 2025
+- 2025.08: ✨ The long video generation work Animaker is accepted by [ACM SIGGRAPH Asia 2025](https://animaker-dev.github.io/)
 - 2025.05: ✨ Unified multimodal LLMs Uni-MoE is accepted by [IEEE TPAMI 2025](https://ieeexplore.ieee.org/document/10887014)
-- 2025.05: ✨ VideoVista-CulturalLingo is accepted by ACL 2025 Main Conference
-- 2025.01: ✨ Pioneering GUI model UI-TARS is open-sourced
+- 2025.05: ✨ VideoVista-CulturalLingo is accepted by [ACL 2025 Main Conference](https://videovista-culturallingo.github.io/)
+- 2025.01: ✨ Pioneering GUI model [UI-TARS](https://github.com/bytedance/UI-TARS) is open-sourced
 - 2024.11: ✨ Anim-Director is accepted by [ACM SIGGRAPH Asia 2024](https://dl.acm.org/doi/abs/10.1145/3680528.3687688)
 - 2024.05: ✨ Cognitive Visual-Knowledge Alignment work is accepted by [ACL 2024 Main Conference](https://aclanthology.org/2024.acl-long.411/)
 - 2024.04: ✨ VisionGraph is accepted by [ICML 2024 Main Conference](https://proceedings.mlr.press/v235/li24ab.html)
 - 2024.04: ✨ Multimodal LLMs LMEye is accepted by [IEEE TMM 2024](https://ieeexplore.ieee.org/document/10598361)
-- 2024.02: ✨ Multimodal E-commerce model is accepted by LREC-COLING 2024
-- 2023.08: ✨ Multimodal Event Extraction work is accepted by ACM MM 2023
+- 2024.02: ✨ Multimodal E-commerce model is accepted by [LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.77/)
+- 2023.08: ✨ Multimodal Event Extraction work is accepted by [ACM MM 2023](https://arxiv.org/abs/2306.08966)
 - 2023.05: ✨ Two multimodal reasoning papers are accepted by [ACL 2023 Main Conference](https://aclanthology.org/people/yunxin-li/)
-- 2022.08: ✨ Chunk-aware reasoning work is accepted by ACM MM 2022
-- 2022.05: ✨ Pivotal information recalling-based medical dialogue generation is accepted by SIGKDD
+- 2022.08: ✨ Chunk-aware reasoning work is accepted by [ACM MM 2022](https://arxiv.org/abs/2207.11401)
+- 2022.05: ✨ Pivotal information recalling-based medical dialogue generation is accepted by [SIGKDD](https://dl.acm.org/doi/10.1145/3534678.3542674)
 - 2022.03: ✨ Deep Spatial & Contextual Information network is accepted by [IEEE TMM 2023](https://ieeexplore.ieee.org/document/9682541)
 
 
