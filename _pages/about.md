@@ -9,9 +9,9 @@ redirect_from:
 
 ## 😎 About Me (李云鑫)
 
-I just got my Ph.D. from Harbin Institute of Technology, Shenzhen and advised by Prof. [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), Prof. [Yuxin Ding](https://homepage.hit.edu.cn/dingyuxin), and Prof. [Min Zhang](https://homepage.hit.edu.cn/MinZhang). I obtained a Master of Engineering degree from Harbin Institute of Technology, Shenzhen and a Bachelor of Science degree from Harbin Institute of Technology. Long-term cooperation with Dr. [Lin Ma](https://forestlinma.com/), Meituan, Beijing; Prof. [Wenhan Luo](https://whluo.github.io/), HKUST; Dr. [Longyue Wang](https://www.longyuewang.com/), Alibaba Group; Dr. [Yuxiang Wu](https://jimmycode.github.io/), University College London.
+I just got my PhD from Harbin Institute of Technology, Shenzhen and was advised by Prof. [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), Prof. [Yuxin Ding](https://homepage.hit.edu.cn/dingyuxin), and Prof. [Min Zhang](https://homepage.hit.edu.cn/MinZhang). I obtained a Master of Engineering degree from Harbin Institute of Technology, Shenzhen and a Bachelor of Science degree from Harbin Institute of Technology. Long-term cooperation with Dr. [Lin Ma](https://forestlinma.com/), Meituan, Beijing; Prof. [Wenhan Luo](https://whluo.github.io/), HKUST; Dr. [Longyue Wang](https://www.longyuewang.com/), Alibaba Group; Dr. [Yuxiang Wu](https://jimmycode.github.io/), University College London.
 
-The long-term goal of my research is to help humans with more capable artificial intelligence. Dream of building an intelligent metaverse and interesting research directions including:
+The long-term goal of my research is to help humans with more capable artificial intelligence. Dream of building an intelligent metaverse and interesting research directions, including:
 - Multimodal Collaborative Reasoning
 - Video Understanding and Generation
 - Multimodal Agent
@@ -56,7 +56,7 @@ The long-term goal of my research is to help humans with more capable artificial
   **[[pdf](https://arxiv.org/abs/2408.09787)]** **[[code](https://github.com/HITsz-TMG/Anim-Director)]**
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social">
 
-- **[arXiv 2024]** VideoVista: A Versatile Benchmark for Video Understanding and Reasoning<br>
+- **[ArXiv 2024]** VideoVista: A Versatile Benchmark for Video Understanding and Reasoning<br>
   <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Longyue Wang, Haoyuan Shi, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2406.11303)]** **[[web](https://videovista.github.io/)]** **[[code](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs/tree/master/VideoVista)]**
 
@@ -76,13 +76,10 @@ The long-term goal of my research is to help humans with more capable artificial
   <u><strong>Yunxin Li</strong></u>, Baotian Hu, Wenhan Luo, Lin Ma, Yuxin Ding, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2402.13587)]** **[[code](https://github.com/HITsz-TMG/Multimodal-In-Context-Tuning)]**
 
-- **[arXiv 2023]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
+- **[ArXiv 2023]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
   <u><strong>Yunxin Li</strong></u>, Baotian Hu, Wei Wang, Xiaochun Cao, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2311.15759)]** **[[code](https://github.com/HITsz-TMG/MKS2-Multimodal-Knowledge-Storage-and-Sharing)]**
 
-- **[Technical Paper 2023]** A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering<br>
-  <u><strong>Yunxin Li</strong></u>*, Longyue Wang*, Baotian Hu, Xinyu Chen, Wanqi Zhong, Chenyang Lyu, Min Zhang<br>
-  **[[pdf](https://arxiv.org/abs/2311.07536)]** **[[code](https://github.com/HITsz-TMG/Cognitive-Visual-Language-Mapper)]**
 
 - **[ACM MM 2023]** Training Multimedia Event Extraction With Generated Images and Captions<br>
   Zilin Du, <u><strong>Yunxin Li</strong></u>, Xu Guo, Yidan Sun, Boyang Li<br>
@@ -118,8 +115,8 @@ The long-term goal of my research is to help humans with more capable artificial
 
 ## 💁 Service
 
-- Conference Reviewer: ACL ARR (2023-), ICLR (2023-), NeurIPS (2024-), ICML (2024-), AAAI (2024-), ACM SIGGRAPH (2025-), ACM MM (2023-), and IJCAI (2023-).
-- Journal Reviewer: IEEE TPAMI, ACM Computing Survey, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TCSVT, IEEE TAI, and Neural Networks.
+- Conference Reviewer: ACL ARR (2023-), ICLR (2023-), NeurIPS (2024-), ICML (2024-), AAAI (2024-), ACM SIGGRAPH (2025-), CVPR (2025-), ACM MM (2023-), and IJCAI (2023-).
+- Journal Reviewer:  ACM Computing Survey, IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TCSVT, IEEE TAI, and Neural Networks.
 
 ## 🏅 Award
 
