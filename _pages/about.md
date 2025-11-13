@@ -94,11 +94,11 @@ The long-term goal of my research is to help humans with more capable artificial
   **[[pdf](https://arxiv.org/abs/2305.04530)]** **[[code](https://github.com/YunxinLi/Multimodal-Context-Reasoning)]**
 
 - **[ACM MM 2022]** Chunk-aware Alignment and Lexical Constraint for Visual Entailment with Natural Language Explanations<br>
-  Qian Yang*, <u><strong>Yunxin Li</strong></u>*, Baotian Hu, Lin Ma, Yuxing Ding, Min Zhang<br>
+  Qian Yang#, <u><strong>Yunxin Li#</strong></u>, Baotian Hu, Lin Ma, Yuxing Ding, Min Zhang<br>
   **[[pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3548284)]** **[[code](https://github.com/HITsz-TMG/ExplainableVisualEntailment)]**
 
 - **[SIGKDD 2022]** Medical Dialogue Response Generation with Pivotal Information Recalling<br>
-  Yu Zhao*, <u><strong>Yunxin Li</strong></u>*, Yuxiang Wu, Baotian Hu, Qingcai Chen, Xiaolong Wang, Yuxin Ding, Min Zhang<br>
+  Yu Zhao#, <u><strong>Yunxin Li#</strong></u>, Yuxiang Wu, Baotian Hu, Qingcai Chen, Xiaolong Wang, Yuxin Ding, Min Zhang<br>
   **[[pdf](https://dl.acm.org/doi/abs/10.1145/3534678.3542674)]** **[[code](https://github.com/HITsz-TMG/MedPIR)]**
 
 - **[IEEE TMM 2022]** Fast and Robust Online Handwritten Chinese Character Recognition with Deep Spatial & Contextual Information Fusion Network<br>
