@@ -78,7 +78,7 @@ The long-term goal of my research is to help humans with more capable artificial
 
 - **[arXiv 2023]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
   <u><strong>Yunxin Li</strong></u>, Baotian Hu, Wei Wang, Xiaochun Cao, Min Zhang<br>
-  **[[pdf](https://arxiv.org/abs/2311.15759)]**
+  **[[pdf](https://arxiv.org/abs/2311.15759)]** **[[code](https://github.com/HITsz-TMG/MKS2-Multimodal-Knowledge-Storage-and-Sharing)]**
 
 - **[Technical Paper 2023]** A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering<br>
   <u><strong>Yunxin Li</strong></u>*, Longyue Wang*, Baotian Hu, Xinyu Chen, Wanqi Zhong, Chenyang Lyu, Min Zhang<br>
