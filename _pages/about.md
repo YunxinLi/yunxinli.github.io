@@ -17,7 +17,7 @@ The long-term goal of my research is to help humans with more capable artificial
 - Multimodal Agent
 - Embodied Intelligence
 
-<p style="color: blue; margin: 0;">I am actively seeking cooperators who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments.</p>
+<p style="color: blue; margin: 0;">I am actively seeking cooperators who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. 📧Email: liyunxin987@163.com </p>
 
 
 ## 🔥 News
