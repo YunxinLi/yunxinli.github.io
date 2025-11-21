@@ -62,9 +62,9 @@ The long-term goal of my research is to help humans with more capable artificial
   **[[pdf](https://arxiv.org/abs/2408.09787)]** **[[code](https://github.com/HITsz-TMG/Anim-Director)]**
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social">
 
-- **[ArXiv 2024]** VideoVista: A Versatile Benchmark for Video Understanding and Reasoning<br>
+- **[ACL 2025]** VideoVista: A Versatile Benchmark for Video Understanding and Reasoning<br>
   <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Longyue Wang, Haoyuan Shi, Min Zhang<br>
-  **[[pdf](https://arxiv.org/abs/2406.11303)]** **[[web](https://videovista.github.io/)]** **[[code](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs/tree/master/VideoVista)]**
+  **[[pdf](https://arxiv.org/abs/2406.11303)]** **[[web](https://videovista.github.io/)]** **[[code](https://github.com/HITsz-TMG/VideoVista)]**
 
 - **[ACL 2024]** Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment<br>
   <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Haoyuan Shi, Min Zhang<br>
