@@ -42,6 +42,11 @@ The long-term goal of my research is to help humans with more capable artificial
 
 ## 📕 Selected Publications 
 
+- **[Technical Report, ArXiv 2025]** Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data<br>
+<u><strong>Yunxin Li</strong></u>, Xinyu Chen, Shenyuan Jiang, Haoyuan Shi, Zhenyu Liu, Xuanyu Zhang, Nanhao Deng, Zhenran Xu, Yicheng Ma, Meishan Zhang, Baotian Hu, Min Zhang<br>
+**[[pdf](https://arxiv.org/abs/2511.12609)]** **[[web](https://idealistxy.github.io/Uni-MoE-v2.github.io/)]** **[[code](https://github.com/HITsz-TMG/Uni-MoE)]**
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Uni-MoE.svg?style=social">
+
 - **[Survey, ArXiv 2025]** Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models<br>
   <u><strong>Yunxin Li</strong></u>, Zhenyu Liu, Zitao Li, Xuanyu Zhang, Zhenran Xu, Xinyu Chen, Haoyuan Shi, Shenyuan Jiang, Xintong Wang, Jifang Wang, Shouzheng Huang, Xinping Zhao, Borui Jiang, Lanqing Hong, Longyue Wang, Zhuotao Tian, Baoxing Huai, Wenhan Luo, Weihua Luo, Zheng Zhang, Baotian Hu, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2505.04921)]** **[[web](https://github.com/HITsz-TMG/Awesome-Large-Multimodal-Reasoning-Models)]** **[[huggingface](https://huggingface.co/papers/2505.04921)]**
