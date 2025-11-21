@@ -56,15 +56,15 @@ The long-term goal of my research is to help humans with more capable artificial
   <u><strong>Yunxin Li</strong></u>, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2405.11273)]** **[[web](https://uni-moe.github.io/)]** **[[code](https://github.com/HITsz-TMG/Uni-MoE)]**
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Uni-MoE.svg?style=social">
+
+- **[ACL 2025]** VideoVista: A Versatile Benchmark for Video Understanding and Reasoning<br>
+  <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Longyue Wang, Haoyuan Shi, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2406.11303)]** **[[web](https://videovista.github.io/)]** **[[code](https://github.com/HITsz-TMG/VideoVista)]**
   
 - **[SIGGRAPH Asia 2024]** Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation<br>
   <u><strong>Yunxin Li</strong></u>, Haoyuan Shi, Baotian Hu, Longyue Wang, Jiashun Zhu, Jinyi Xu, Zhen Zhao, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2408.09787)]** **[[code](https://github.com/HITsz-TMG/Anim-Director)]**
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social">
-
-- **[ACL 2025]** VideoVista: A Versatile Benchmark for Video Understanding and Reasoning<br>
-  <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Longyue Wang, Haoyuan Shi, Min Zhang<br>
-  **[[pdf](https://arxiv.org/abs/2406.11303)]** **[[web](https://videovista.github.io/)]** **[[code](https://github.com/HITsz-TMG/VideoVista)]**
 
 - **[ACL 2024]** Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment<br>
   <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Baotian Hu, Haoyuan Shi, Min Zhang<br>
