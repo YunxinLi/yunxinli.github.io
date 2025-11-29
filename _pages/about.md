@@ -21,8 +21,9 @@ The long-term goal of my research is to help humans with more capable artificial
 
 
 ## 🔥 News
-- 2025.11: ✨ The omnimodal large model [Uni-MoE-2.0-Omni models](https://arxiv.org/abs/2511.12609) (five checkpoints) are open-sourced 
-- 2025.10: ✨ One long paper about Temporal RAG Benchmark is accepted by Nature Scientific Data
+- 2025.11: ✨ The omnimodal large model [Uni-MoE-2.0-Omni models](https://arxiv.org/abs/2511.12609) (five checkpoints) are open-sourced
+- 2025.10: ✨ Our unified speech and music generative model [Uni-MoE-Audio](https://arxiv.org/abs/2510.13344) is open-sourced 
+- 2025.10: ✨ One long paper about the Temporal RAG Benchmark is accepted by Nature Scientific Data
 - 2025.08: ✨ One long paper about Temporal RAG is accepted by CIKM 2025
 - 2025.08: ✨ The long video generation work Animaker is accepted by [ACM SIGGRAPH Asia 2025](https://animaker-dev.github.io/)
 - 2025.05: ✨ Unified multimodal LLMs Uni-MoE is accepted by [IEEE TPAMI 2025](https://ieeexplore.ieee.org/document/10887014)
