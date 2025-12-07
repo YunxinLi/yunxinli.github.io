@@ -17,7 +17,11 @@ The long-term goal of my research is to help humans with more capable artificial
 - Multimodal Agent
 - Embodied Intelligence
 
-<p style="color: blue; margin: 0;">I am actively seeking cooperators who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. 📧Email: liyx@hit.edu.cn </p>
+<p style="color: blue; margin: 0;">I am actively seeking cooperators (本科生、硕士生、博士生) who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. 📧Email: liyx@hit.edu.cn </p>
+
+<p style="color: red; margin: 0;">
+哈工深计算与智能研究院<b>Lychee大模型团队</b>长期招收大模型硕博研究生、本硕博实习生。团队可依靠哈工深、深圳河套人工智能学院、鹏程实验室、中科院信工所、苏州大学等高校和实验室联合培养，做有价值的科研，欢迎积极踊跃报名！
+</p>
 
 
 ## 🔥 News
