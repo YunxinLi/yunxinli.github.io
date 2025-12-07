@@ -9,7 +9,7 @@ redirect_from:
 
 ## 😎 About Me (李云鑫)
 
-I am a Tenure-Track Associate Professor at Harbin Institute of Technology, Shenzhen. I earned my Ph.D. from the Harbin Institute of Technology, Shenzhen, advised by Prof. [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), Prof. [Yuxin Ding](https://homepage.hit.edu.cn/dingyuxin), and Prof. [Min Zhang](https://homepage.hit.edu.cn/MinZhang). I obtained a Master of Engineering degree from Harbin Institute of Technology, Shenzhen and a Bachelor of Science degree from Harbin Institute of Technology. Long-term cooperation with Dr. [Lin Ma](https://forestlinma.com/), Meituan, Beijing; Prof. [Wenhan Luo](https://whluo.github.io/), HKUST; Dr. [Longyue Wang](https://www.longyuewang.com/), Alibaba Group; Dr. [Yuxiang Wu](https://www.yuxiangwu.com/), 
+I am a Tenure-Track Associate Professor at Harbin Institute of Technology, Shenzhen. I earned PhD from the Harbin Institute of Technology, Shenzhen, advised by Prof. [Baotian Hu](https://homepage.hit.edu.cn/hubaotian), Prof. [Yuxin Ding](https://homepage.hit.edu.cn/dingyuxin), and Prof. [Min Zhang](https://homepage.hit.edu.cn/MinZhang). I obtained a Master of Engineering degree from Harbin Institute of Technology, Shenzhen and a Bachelor of Science degree from Harbin Institute of Technology. Long-term cooperation with Dr. [Lin Ma](https://forestlinma.com/), Meituan; Prof. [Wenhan Luo](https://whluo.github.io/), HKUST; Dr. [Longyue Wang](https://www.longyuewang.com/), Alibaba International Group; Dr. [Yuxiang Wu](https://www.yuxiangwu.com/), Weco AI. 
 
 The long-term goal of my research is to help humans with more capable artificial intelligence. Dream of building an intelligent metaverse and interesting research directions, including:
 - Multimodal Reasoning and Planning
@@ -20,7 +20,7 @@ The long-term goal of my research is to help humans with more capable artificial
 <p style="color: blue; margin: 0;">I am actively seeking cooperators (本科生、硕士生、博士生) who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. 📧Email: liyx@hit.edu.cn </p>
 
 <p style="color: red; margin: 0;">
-哈工深计算与智能研究院<b>Lychee大模型团队</b>长期招收大模型硕博研究生、本硕博实习生。团队可依靠哈工深、深圳河套人工智能学院、鹏程实验室、中科院信工所、苏州大学等高校和实验室联合培养，做有价值的科研，欢迎积极踊跃报名！
+哈工深计算与智能研究院Lychee大模型团队长期招收大模型硕博研究生、本硕博实习生。团队可依靠哈工深、深圳河套人工智能学院、鹏程实验室、中科院信工所、苏州大学等高校和实验室联合培养，做有价值的科研，欢迎积极踊跃报名！
 </p>
 
 
@@ -117,18 +117,6 @@ The long-term goal of my research is to help humans with more capable artificial
   **[[pdf](https://ieeexplore.ieee.org/abstract/document/9682541)]**
   
 
-## 💼 Research Internship
-
-- HKUST Research Assistant (2025.03 - 2025.08)
-- ByteDance Doubao (Seed) Team (2024.10 - 2025.02)
-- Tencent AILab (2024.04 - 2024.08)
-- Tencent PCG (2021.10 - 2022.06)
-
-## 💁 Service
-
-- Conference Reviewer: ACL ARR (2023-), ICLR (2023-), NeurIPS (2024-), ICML (2024-), AAAI (2024-), ACM SIGGRAPH (2025-), CVPR (2025-), ACM MM (2023-), and IJCAI (2023-).
-- Journal Reviewer:  ACM Computing Survey, IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TCSVT, IEEE TAI, and Neural Networks.
-
 ## 🏅 Award
 
 - Provincial Outstanding Graduates, 2019
@@ -139,6 +127,18 @@ The long-term goal of my research is to help humans with more capable artificial
 - Tencent Qingyun (腾讯青云人才计划), 2025
 - Young Talent Support Project-Doctor (首届中国科协青托博士生计划), CAST, 2024
 - Outstanding Doctoral Dissertation of HIT (哈工大优博), 2025
+
+## 💼 Research Experience
+
+- HKUST Research Assistant (2025.03 - 2025.08)
+- ByteDance Doubao (Seed) Team (2024.10 - 2025.02)
+- Tencent AILab (2024.04 - 2024.08)
+- Tencent PCG (2021.10 - 2022.06)
+
+## 💁 Service
+
+- Conference Reviewer: ACL ARR (2023-), ICLR (2023-), NeurIPS (2024-), ICML (2024-), AAAI (2024-), ACM SIGGRAPH (2025-), CVPR (2025-), ACM MM (2023-), and IJCAI (2023-).
+- Journal Reviewer:  ACM Computing Survey, IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TCSVT, IEEE TAI, and Neural Networks.
 
 
 
