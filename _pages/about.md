@@ -17,12 +17,14 @@ The long-term goal of my research is to help humans with more capable artificial
 - Multimodal Agent
 - Embodied Intelligence
 
-<p style="color: blue; margin: 0;">I am actively seeking cooperators (本科生、硕士生、博士生) who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. 📧Email: liyx@hit.edu.cn </p>
+<p style="color: blue; margin: 0;">I am actively seeking cooperators (本科生、硕士生、博士生) who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. </p>
 
 <p style="color: red; margin: 0;">
-- 哈工深计算与智能研究院Lychee大模型团队长期招收大模型硕博研究生、本硕博实习生。团队可依靠哈工深、深圳河套人工智能学院、鹏程国家实验室、苏州大学等高校和实验室联合培养，做有价值的科研，欢迎积极踊跃报名！<br>
+哈工深计算与智能研究院Lychee大模型团队长期招收大模型硕博研究生、本硕博实习生。团队可依靠哈工深、深圳河套人工智能学院、鹏程国家实验室、苏州大学等高校和实验室联合培养，做有价值的科研，欢迎积极踊跃报名！<br>
 Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授和户保田教授、港科罗文寒教授，26年招生时间: 3月底/4月初春令营、6月夏令营、10月中旬秋令营
 </p>
+
+📧Email: liyx@hit.edu.cn
 
 
 ## 🔥 News
