@@ -50,6 +50,11 @@ Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授
 
 ## 📕 Selected Publications 
 
+- **[IEEE TIP 2026]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
+  <u><strong>Yunxin Li</strong></u>, Zhenyu Liu, Baotian Hu, Wei Wang, Yuxin Ding, Xiaochun Cao, Min Zhang<br>
+  **[[pdf](https://arxiv.org/abs/2311.15759)]** **[[code](https://github.com/HITsz-TMG/MKS2-Multimodal-Knowledge-Storage-and-Sharing)]**
+
+
 - **[Technical Report, ArXiv 2025]** Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data<br>
 <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Shenyuan Jiang, Haoyuan Shi, Zhenyu Liu, Xuanyu Zhang, Nanhao Deng, Zhenran Xu, Yicheng Ma, Meishan Zhang, Baotian Hu, Min Zhang<br>
 **[[pdf](https://arxiv.org/abs/2511.12609)]** **[[web](https://idealistxy.github.io/Uni-MoE-v2.github.io/)]** **[[code](https://github.com/HITsz-TMG/Uni-MoE)]**
@@ -89,10 +94,6 @@ Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授
 - **[LREC-COLING 2024]** A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation<br>
   <u><strong>Yunxin Li</strong></u>, Baotian Hu, Wenhan Luo, Lin Ma, Yuxin Ding, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2402.13587)]** **[[code](https://github.com/HITsz-TMG/Multimodal-In-Context-Tuning)]**
-
-- **[ArXiv 2023]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
-  <u><strong>Yunxin Li</strong></u>, Baotian Hu, Wei Wang, Xiaochun Cao, Min Zhang<br>
-  **[[pdf](https://arxiv.org/abs/2311.15759)]** **[[code](https://github.com/HITsz-TMG/MKS2-Multimodal-Knowledge-Storage-and-Sharing)]**
 
 
 - **[ACM MM 2023]** Training Multimedia Event Extraction With Generated Images and Captions<br>
