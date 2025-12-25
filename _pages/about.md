@@ -14,6 +14,7 @@ I am a Tenure-Track Associate Professor at Harbin Institute of Technology, Shenz
 The long-term goal of my research is to help humans with more capable artificial intelligence. Dream of building an intelligent metaverse and interesting research directions, including:
 - Multimodal Reasoning and Planning
 - Omnimodal Large Model
+- Omnimodal Embedding Model
 - Multimodal Agent
 - Embodied Intelligence
 
