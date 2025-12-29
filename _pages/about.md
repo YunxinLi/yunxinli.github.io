@@ -29,6 +29,7 @@ Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授
 
 
 ## 🔥 News
+- 2026.01: ✨ The Vision Enhancing LLMs [Open Eyes to learn language](https://arxiv.org/abs/2311.15759) is accepted by IEEE TIP
 - 2025.11: ✨ The omnimodal large model [Uni-MoE-2.0-Omni models](https://arxiv.org/abs/2511.12609) (five checkpoints) are open-sourced
 - 2025.10: ✨ Our unified speech and music generative model [Uni-MoE-Audio](https://arxiv.org/abs/2510.13344) is open-sourced 
 - 2025.10: ✨ One long paper about the Temporal RAG Benchmark is accepted by [Nature Scientific Data](https://www.nature.com/articles/s41597-025-06098-y)
