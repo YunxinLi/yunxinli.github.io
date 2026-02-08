@@ -15,8 +15,8 @@ The long-term goal of my research is to help humans with more capable artificial
 - Multimodal Reasoning and Planning
 - Omnimodal Large Model
 - Omnimodal Embedding Model
-- Multimodal Agent
-- Embodied Intelligence
+- Omnimodal Tool Use
+- Omnimodal Agent
 
 <p style="color: blue; margin: 0;">I am actively seeking cooperators (本科生、硕士生、博士生) who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. </p>
 
