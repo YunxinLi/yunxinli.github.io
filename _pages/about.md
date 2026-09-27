@@ -20,7 +20,7 @@ The long-term goal of my research is to help humans with more capable artificial
 <p style="color: blue; margin: 0;">I am actively seeking cooperators (本科生、硕士生、博士生) who share my interest in developing large multimodal reasoning models to support scalable, agentic, and adaptive reasoning and planning in complex, real-world environments. </p>
 
 <p style="color: red; margin: 0;">
-哈工深张民教授与户保田教授以自然语言为核心的立知大模型团队长期招收大模型硕博研究生、本硕博实习生。团队可依靠哈工深、深圳河套人工智能学院、鹏城国家实验室、苏州大学等高校和实验室联合培养，做有价值的科研，欢迎积极踊跃报名！<br>
+哈工深张民教授与户保田教授以自然语言为核心的立知大模型团队长期招收大模型硕博研究生、本硕博实习生。团队可依靠哈工深、深圳河套人工智能学院、鹏城国家实验室、苏州大学等高校和实验室联合培养，做有价值的科研，欢迎积极踊跃报名！招收2027年入学第一届博士生！<br>
 Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授和户保田教授、港科罗文寒教授。
 </p>
 
@@ -134,6 +134,7 @@ Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授
 - Tencent Qingyun (腾讯青云人才计划), 2025
 - Young Talent Support Project-Doctor (首届中国科协青托博士生计划), CAST, 2024
 - Outstanding Doctoral Dissertation of HIT (哈工大优博), 2025
+- Hong Kong Scholars Program (香江学者计划), 2026
 
 ## 💼 Research Experience
 
