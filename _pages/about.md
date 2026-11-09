@@ -28,7 +28,8 @@ Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授
 
 
 ## 🔥 News
-- 2026.07: ✨ Our multimodal and speech team's [full-duplex spoken language model](https://arxiv.org/abs/2607.06540) wins the ACL 2026 Outstanding Paper Award 🏆.
+- 2026.10: ✨ Our team's video-language interaction benchmark [VideoVista](https://ieeexplore.ieee.org/document/11731523) is accepted by IEEE TPAMI.
+- 2026.07: ✨ Our team's [full-duplex spoken language model](https://arxiv.org/abs/2607.06540) wins the ACL 2026 Outstanding Paper Award 🏆.
 - 2026.05: ✨ Our team has seven papers accepted by ACL 2026, which consist of Multimodal Spoken Large Language Models, Tool Use, AIGC/GUI Agents.
 - 2026.01: ✨ The Vision Enhancing LLMs [Open Eyes to learn language](https://arxiv.org/abs/2311.15759) is accepted by IEEE TIP
 - 2025.11: ✨ The omnimodal large model [Uni-MoE-2.0-Omni models](https://arxiv.org/abs/2511.12609) (five checkpoints) are open-sourced
@@ -54,7 +55,7 @@ Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授
 ## 📕 Selected Publications 
 
 - **[IEEE TPAMI 2026]** VideoVista: Benchmarking Diverse and Complex Video-Language Interaction for MLLMs<br>
-  <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Zhenran Xu, Qi Wang, Yicheng Ma, Jin Liu, Kai Chen, Youcheng Pan, Yuxin Ding, Zhefeng Wang, Baoxing Huai, Baotian Hu, Min Zhang
+  <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Zhenran Xu, Qi Wang, Yicheng Ma, Jin Liu, Kai Chen, Youcheng Pan, Yuxin Ding, Zhefeng Wang, Baoxing Huai, Baotian Hu, Min Zhang<br>
   **[[pdf](https://ieeexplore.ieee.org/document/11731523)]** **[code](https://github.com/HITsz-TMG/VideoVista)]**
 
 - **[IEEE TIP 2026]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
