@@ -53,6 +53,10 @@ Tips: 深圳河套学院博士和RA招生，合作导师为哈工深张民教授
 
 ## 📕 Selected Publications 
 
+- **[IEEE TPAMI 2026]** VideoVista: Benchmarking Diverse and Complex Video-Language Interaction for MLLMs<br>
+  <u><strong>Yunxin Li</strong></u>, Xinyu Chen, Zhenran Xu, Qi Wang, Yicheng Ma, Jin Liu, Kai Chen, Youcheng Pan, Yuxin Ding, Zhefeng Wang, Baoxing Huai, Baotian Hu, Min Zhang
+  **[[pdf](https://ieeexplore.ieee.org/document/11731523)]** **[code](https://github.com/HITsz-TMG/VideoVista)]**
+
 - **[IEEE TIP 2026]** Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage and Sharing in LLMs<br>
   <u><strong>Yunxin Li</strong></u>, Zhenyu Liu, Baotian Hu, Wei Wang, Yuxin Ding, Xiaochun Cao, Min Zhang<br>
   **[[pdf](https://arxiv.org/abs/2311.15759)]** **[[code](https://github.com/HITsz-TMG/MKS2-Multimodal-Knowledge-Storage-and-Sharing)]**
